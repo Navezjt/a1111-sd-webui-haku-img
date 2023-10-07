@@ -1,0 +1,1 @@
+https://github.com/KohakuBlueleaf/a1111-sd-webui-haku-img
